@@ -36,6 +36,8 @@ Want to collaborate on a project or discuss AI and machine learning? Feel free t
 I can solve a Rubik's Cube in under 2 minutes 🎉
 
 -->
+![](small_cat.gif)
+
 👩🏻‍🎓 the 4th course student at the Belarusian State University,\
 the Faculty of Applied Mathematics and Computer Science
 
