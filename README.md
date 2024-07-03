@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **UlyanaFilkova/UlyanaFilkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+**Frontend Developer**
+
+| Project | Description | Link |
+| --- | --- | --- |
+| 🤖 AI Chatbot | A conversational AI chatbot built with Node.js and TensorFlow | [GitHub](https://github.com/your-username/ai-chatbot) |
+| 📊 Data Visualization | A data visualization dashboard built with React and D3.js | [GitHub](https://github.com/your-username/data-visualization) |
+
+**Skills**
+
+* Programming languages: JavaScript, Python, Java
+* Technologies: Node.js, TensorFlow, React, D3.js
+* Tools: Git, GitHub, Visual Studio Code
+
+**Get in touch**
+
+Want to collaborate on a project or discuss AI and machine learning? Feel free to reach out to me on <span style="color:red">[Twitter](https://twitter.com/your-username)</span> or <span style="color:yellow">[LinkedIn](https://linkedin.com/in/your-username)</span>.
+
+**Fun fact**
+
+I can solve a Rubik's Cube in under 2 minutes 🎉
+
 -->
