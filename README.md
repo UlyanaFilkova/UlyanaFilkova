@@ -38,6 +38,8 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 -->
 ![](small_cat.gif)
 
+### Frontend Vue.js Developer
+
 👩🏻‍🎓 the 4th course student at the Belarusian State University,\
 the Faculty of Applied Mathematics and Computer Science
 
