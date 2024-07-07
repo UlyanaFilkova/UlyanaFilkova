@@ -38,11 +38,11 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 -->
 ![](small_cat.gif)
 
-### Frontend Developer
+## Frontend Developer
 
-### • HTML, CSS, SCSS, Bootstrap 
-### • JavaScript, TypeScript
-### • Vue.js
+#### • HTML, CSS, SCSS, Bootstrap 
+#### • JavaScript, TypeScript
+#### • Vue.js
  
 👩🏻‍🎓 the 4th course student at the Belarusian State University,\
 the Faculty of Applied Mathematics and Computer Science
