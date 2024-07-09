@@ -41,6 +41,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### • HTML, CSS, SCSS, Bootstrap 
 #### • JavaScript, TypeScript
 #### • Vue.js
+#### • Webpack, Vite
  
 🎓 the 4th course student at the Belarusian State University,\
 the Faculty of Applied Mathematics and Computer Science
