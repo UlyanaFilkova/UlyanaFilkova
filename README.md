@@ -38,7 +38,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 -->
 ## Frontend Developer
 
-#### • HTML, CSS, SCSS, Bootstrap 
+#### • HTML, CSS, SCSS, SASS, Bootstrap 
 #### • JavaScript, TypeScript
 #### • Vue.js
 #### • Webpack, Vite
