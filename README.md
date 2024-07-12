@@ -42,6 +42,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### • JavaScript, TypeScript
 #### • Vue.js
 #### • Webpack, Vite
+####
  Also experienced with:
  #### • Docker
  #### • PostgreSQL, MySQL
