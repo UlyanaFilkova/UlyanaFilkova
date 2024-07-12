@@ -47,8 +47,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
  #### • Docker
  #### • PostgreSQL, MySQL
  #### • Python, PHP, Java
-🎓 the 4th course student at the Belarusian State University,\
-the Faculty of Applied Mathematics and Computer Science
+🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
 
 💻 Studied at [The Rolling Scopes](https://rs.school/) and [The Odin Project](https://www.theodinproject.com/) courses
 
