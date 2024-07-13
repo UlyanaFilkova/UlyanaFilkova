@@ -38,15 +38,16 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 -->
 ## Frontend Developer
 
-#### • HTML, CSS, SCSS, SASS, Bootstrap 
-#### • JavaScript, TypeScript
-#### • Vue.js
-#### • Webpack, Vite
+#### 🔹 HTML, CSS, SCSS, SASS, Bootstrap 
+#### 🔸 JavaScript, TypeScript
+#### 🔹 Vue.js
+#### 🔸 Webpack, Vite
 ####
  Also experienced with:
- #### • Docker
- #### • PostgreSQL, MySQL
- #### • Python, PHP, Java
+ #### 🔹 Docker
+ #### 🔸 PostgreSQL, MySQL
+ #### 🔹 Python, PHP, Java
+##
 🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
 
 💻 Studied at [The Rolling Scopes](https://rs.school/) and [The Odin Project](https://www.theodinproject.com/) courses
