@@ -41,7 +41,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔹 HTML, CSS, SASS/SCSS, Bootstrap 
 #### 🔸 JavaScript, TypeScript
 #### 🔹 Vue.js
-#### 🔸 Vuex, Pinia
+#### 🔸 Pinia, Vuex
 #### 🔹 Webpack, Vite
 ####
  Also experienced with:
@@ -53,4 +53,4 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 
 💻 Studied at [The Rolling Scopes](https://rs.school/) and [The Odin Project](https://www.theodinproject.com/) courses
 
-📚 English: B2 (Upper-intermediate)
+📚 English: B2 (Upper-Intermediate)
