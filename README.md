@@ -43,6 +43,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔹 Vue.js
 #### 🔸 Pinia, Vuex
 #### 🔹 Webpack, Vite
+#### 🔸 Figma
 ####
  Also experienced with:
  #### 🔹 Docker
