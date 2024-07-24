@@ -38,12 +38,13 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 -->
 ## Frontend Developer
 
-#### 🔹 HTML, CSS, SASS/SCSS, Bootstrap, Tailwind 
-#### 🔸 JavaScript, TypeScript
-#### 🔹 Vue.js
-#### 🔸 Pinia, Vuex
-#### 🔹 Webpack, Vite
-#### 🔸 Figma
+#### 🔹 HTML, CSS, SASS/SCSS 
+#### 🔸 Bootstrap, Tailwind
+#### 🔹 JavaScript, TypeScript
+#### 🔸 Vue.js
+#### 🔹 Pinia, Vuex
+#### 🔸 Webpack, Vite
+#### 🔹 Figma
 ####
  Also experienced with:
  #### 🔹 Docker
