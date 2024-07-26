@@ -45,6 +45,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔹 Pinia, Vuex
 #### 🔸 Webpack, Vite
 #### 🔹 Figma
+#### 🔸 Adaptive & Responsive Layout
 ####
  Also experienced with:
  #### 🔹 Docker
