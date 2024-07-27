@@ -40,12 +40,12 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 
 #### 🔹 HTML, CSS, SASS/SCSS 
 #### 🔸 Bootstrap, Tailwind
+#### 🔹 Figma
+#### 🔸 Adaptive & Responsive Layout
 #### 🔹 JavaScript, TypeScript
 #### 🔸 Vue.js
 #### 🔹 Pinia, Vuex
 #### 🔸 Webpack, Vite
-#### 🔹 Figma
-#### 🔸 Adaptive & Responsive Layout
 ####
  Also experienced with:
  #### 🔹 Docker
