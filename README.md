@@ -42,10 +42,11 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔸 Bootstrap, Tailwind
 #### 🔹 Figma
 #### 🔸 Adaptive & Responsive Layout
-#### 🔹 JavaScript, TypeScript
-#### 🔸 Vue.js
-#### 🔹 Pinia, Vuex
-#### 🔸 Webpack, Vite
+#### 🔹 Cross-Browser Compatible Layout
+#### 🔸 JavaScript, TypeScript
+#### 🔹 Vue.js
+#### 🔸 Pinia, Vuex
+#### 🔹 Webpack, Vite
 ####
  Also experienced with:
  #### 🔹 Docker
