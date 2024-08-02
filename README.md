@@ -41,7 +41,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔹 HTML, CSS, SASS/SCSS 
 #### 🔸 Bootstrap, Tailwind
 #### 🔹 Figma
-#### 🔸 Adaptive & Responsive Layout
+#### 🔸 Adaptive 
 #### 🔹 Cross-Browser Compatible Layout
 #### 🔸 JavaScript, TypeScript
 #### 🔹 Vue.js
@@ -50,7 +50,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 ####
  Also experienced with:
  #### 🔹 Docker
- #### 🔸 MySQL
+ #### 🔸 PostgreSQL, MySQL
  #### 🔹 Python, PHP, Java
 ##
 🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
