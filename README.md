@@ -41,8 +41,6 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔹 HTML, CSS, SASS/SCSS 
 #### 🔸 Bootstrap, Tailwind
 #### 🔹 Figma
-#### 🔸 Adaptive & Responsive Layout
-#### 🔹 Cross-Browser Compatible Layout
 #### 🔸 JavaScript, TypeScript
 #### 🔹 Vue.js
 #### 🔸 Pinia, Vuex
