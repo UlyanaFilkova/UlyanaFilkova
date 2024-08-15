@@ -49,7 +49,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 ####
  Also experienced with:
  #### 🔹 Docker
- #### 🔸 PostgreSQL
+ #### 🔸 PostgreSQL, MySQL
  #### 🔹 Python, PHP, Java
 ##
 🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
