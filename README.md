@@ -58,4 +58,4 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 
 📚 English: B2 (Upper-Intermediate)
 
-👩 [My CV](/Ulyana_Filkova_CV.pdf)
+👩 [My CV (PDF)](/Ulyana_Filkova_CV.pdf)
