@@ -39,18 +39,15 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 ## Frontend Developer
 
 #### 🔹 HTML, CSS, SASS/SCSS 
-#### 🔸 Bootstrap, Tailwind
-#### 🔹 Figma
-#### 🔸 JavaScript, TypeScript
-#### 🔹 Vue.js
-#### 🔸 Pinia, Vuex
-#### 🔹 Webpack, Vite
-#### 🔸 Node.js
+#### 🔸 Figma, Bootstrap, Tailwind
+#### 🔹 JavaScript, TypeScript
+#### 🔸 Vue.js, Pinia, Vuex
+#### 🔹 Vite, Webpack
+#### 🔸 Node.js, Docker
 ####
  Also experienced with:
- #### 🔹 Docker
- #### 🔸 PostgreSQL, MySQL
- #### 🔹 Python, PHP, Java
+ #### 🔹 PostgreSQL, MySQL
+ #### 🔸 Python, PHP, Java
 ##
 🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
 
