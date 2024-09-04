@@ -44,7 +44,7 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔸 JavaScript, TypeScript
 #### 🔹 Vue.js
 #### 🔸 Pinia, Vuex
-#### 🔹 Webpack
+#### 🔹 Webpack, Vite
 #### 🔸 Node.js
 ####
  Also experienced with:
