@@ -43,11 +43,12 @@ I can solve a Rubik's Cube in under 2 minutes 🎉
 #### 🔹 JavaScript, TypeScript
 #### 🔸 Vue.js, Pinia, Vuex
 #### 🔹 Vite, Webpack
-#### 🔸 Node.js, Docker
+#### 🔸 Node.js
 ####
  Also experienced with:
  #### 🔹 PostgreSQL, MySQL
  #### 🔸 Python, PHP, Java
+ #### 🔹 Docker
 ##
 🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
 
