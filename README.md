@@ -18,4 +18,5 @@
  Also experienced with:
  #### 🔹 PostgreSQL, MySQL
  #### 🔸 Node.js, Python, PHP, Java
- #### 🔹 Docker
+ #### 🔹 Bitrix24, MODX
+ #### 🔸 Docker
