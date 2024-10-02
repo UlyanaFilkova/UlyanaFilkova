@@ -5,7 +5,7 @@
 
 📚 English: B2 (Upper-Intermediate)
 
-👩 [My CV (PDF)](/Ulyana_Filkova_CV.pdf)
+👩 My CV (PDF): [Russian](/Ulyana_Filkova_CV.pdf), [English](/Ulyana_Filkova_CV_en.pdf)
 ##
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 
