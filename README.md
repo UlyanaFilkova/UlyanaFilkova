@@ -17,7 +17,6 @@
  Also experienced with:
  #### 🔹 PostgreSQL, MySQL
  #### 🔸 Node.js, Python, PHP, Java
- #### 🔹 Bitrix24, MODX
- #### 🔸 Docker
+ #### 🔹 Docker
 ##
 ![Codewars](https://github.r2v.ch/codewars?user=UlyanaFilkova)
