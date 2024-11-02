@@ -19,4 +19,5 @@
  #### 🔸 Node.js, Python, PHP, Java
  #### 🔹 Docker
 ##
-![Codewars](https://github.r2v.ch/codewars?user=UlyanaFilkova)
+[![Codewars Badge](https://www.codewars.com/users/UlyanaFilkova/badges/large)](https://www.codewars.com/users/UlyanaFilkova)
+
