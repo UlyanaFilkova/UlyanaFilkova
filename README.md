@@ -18,7 +18,7 @@
  #### 🔹 PostgreSQL, MySQL
  #### 🔸 Node.js, Python, PHP, Java
  #### 🔹 Docker
-###
+##
 [![GitHub Streak](https://streak-stats.demolab.com?user=UlyanaFilkova&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Codewars Badge](https://www.codewars.com/users/UlyanaFilkova/badges/large)](https://www.codewars.com/users/UlyanaFilkova)
