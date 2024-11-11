@@ -21,7 +21,7 @@
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=UlyanaFilkova&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![UlyanaFilkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaFilkova\&show_icons=true\&show=prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![UlyanaFilkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaFilkova\&show_icons=true\&show=prs_merged,prs_merged_percentage\&hide=contribs,issue\&rank_icon=percentile)
 
 [![Codewars Badge](https://www.codewars.com/users/UlyanaFilkova/badges/large)](https://www.codewars.com/users/UlyanaFilkova)
 
