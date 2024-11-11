@@ -25,3 +25,4 @@
 
 [![Codewars Badge](https://www.codewars.com/users/UlyanaFilkova/badges/large)](https://www.codewars.com/users/UlyanaFilkova)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlyanaFilkova&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=7)
