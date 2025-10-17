@@ -1,7 +1,7 @@
 ## Frontend Developer
-🎓 Student of the Belarusian State University, the Faculty of Applied Mathematics and Computer Science
+🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
 
-💻 Frontend developer with over a year of experience
+💻 Over a year of work experience
 
 🌠 Passionate about frontend development and website creation
 
