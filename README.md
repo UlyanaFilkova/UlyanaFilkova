@@ -1,7 +1,7 @@
 ## Frontend Developer
 🎓 Belarusian State University, the Faculty of Applied Mathematics and Computer Science
 
-💻 2+ years in Frontend Development  
+💻 3+ years in Frontend Development  
 
 🌠 Passionate about Vue & Nuxt Ecosystem
 
